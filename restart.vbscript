@@ -1,6 +1,0 @@
-'' Wait for our original app to exit
-WScript.Sleep(2)
-
-'' Restart our application with administrator privileges
-Set sh = CreateObject("Shell.Application")
-sh.ShellExecute "[application-binary]", "", "", "runas", 1
