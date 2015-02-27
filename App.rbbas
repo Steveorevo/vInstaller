@@ -1,0 +1,1 @@
+#tag ClassProtected Class AppInherits Application	#tag Property, Flags = &h0		Instance As Mutex	#tag EndProperty	#tag ViewBehavior	#tag EndViewBehaviorEnd Class#tag EndClass
