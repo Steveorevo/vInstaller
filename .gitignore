@@ -3,3 +3,5 @@
 .vInstaller.rbuistate
 /Builds - vInstaller/*
 /Builds - vInstaller/*
+/.vInstaller.xojo_uistate
+/.DS_Store
